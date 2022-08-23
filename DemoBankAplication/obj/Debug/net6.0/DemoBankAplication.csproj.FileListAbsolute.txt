@@ -1,0 +1,15 @@
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\bin\Debug\net6.0\DemoBankAplication.exe
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\bin\Debug\net6.0\DemoBankAplication.deps.json
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\bin\Debug\net6.0\DemoBankAplication.runtimeconfig.json
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\bin\Debug\net6.0\DemoBankAplication.dll
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\bin\Debug\net6.0\DemoBankAplication.pdb
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.csproj.AssemblyReference.cache
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.AssemblyInfoInputs.cache
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.AssemblyInfo.cs
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.csproj.CoreCompileInputs.cache
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.dll
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\refint\DemoBankAplication.dll
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.pdb
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\DemoBankAplication.genruntimeconfig.cache
+D:\riderSolutions\DemoBankAplication\DemoBankAplication\obj\Debug\net6.0\ref\DemoBankAplication.dll
